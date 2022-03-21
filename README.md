@@ -9,7 +9,7 @@ b. Como foi definida a função de custo utilizada?
 **R:Para regressão linear foi utilizada o Mean Squared Error(MSE)**
 
 c. Qual foi o critério utilizado na seleção do modelo final?
-**R:Os melhores resultados do MSE para a regressão, e o melhor f1 score para a classificação **
+**R:Os melhores resultados do MSE para a regressão, e o melhor f1 score para a classificação**
 
 d. Qual foi o critério utilizado para validação do modelo? Por que escolheu utilizar este
 método?
